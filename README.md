@@ -6,22 +6,6 @@ This is a work in progress … More templates coming soon!
 
 ## [typography-guidelines](./typography-guidelines/)
 
-### 3x
-
-![](./typography-guidelines/typography-guidelines-x3.png)
-
-### 4x
-
-![](./typography-guidelines/typography-guidelines-x4.png)
-
-### 5x
-
-![](./typography-guidelines/typography-guidelines-x5.png)
-
-### 6x
-
-![](./typography-guidelines/typography-guidelines-x6.png)
-
 ## [6x6-spread-bleed@304ppi](./6x6-spread-bleed@304ppi/)
 
 ![](./6x6-spread-bleed@304ppi/6x6-spread-bleed@304ppi.png)
